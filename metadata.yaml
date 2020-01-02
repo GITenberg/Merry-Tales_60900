@@ -1,0 +1,41 @@
+_repo: Merry-Tales_60900
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+  editor:
+    agent_name: Stedman, Arthur Griffin
+    alias: Stedman, Arthur G. (Arthur Griffin)
+    birthdate: 1859
+    deathdate: 1908
+    gutenberg_agent_id: '26604'
+    url: http://www.gutenberg.org/2009/agents/26604
+description: ''
+gutenberg_issued: '2019-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60900'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Fiction, Fact, and Fancy Series
+subjects:
+- !lcsh 'Humorous stories, American'
+- !lcsh 'War stories, American'
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- GITenberg
+tableOfContents: The private history of a campaign that failed -- The invalid's story
+  -- Luck -- The captain's story -- A curious experience -- Mrs. McWilliams and the
+  lightning -- Meisterschaft.
+title: Merry Tales
+url: http://www.gutenberg.org/ebooks/60900
